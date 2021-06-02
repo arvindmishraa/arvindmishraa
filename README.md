@@ -1,9 +1,6 @@
 ### My Name is Arvind Mishra,I'm a Developer 👋
 
-<!--
-**arvindmishraa/arvindmishraa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...startup
 - 🌱 I’m currently learning ...python
@@ -14,4 +11,5 @@ Here are some ideas to get you started:
 - 📫 Also on YouTube: https://youtube.com/channel/UClaxcp9OVhN8EPpCXx3gqig
 - 😄 Pronouns: ...He/Him
 - ⚡ Fun fact: ...I'm good
+- 🇮🇳
 -->
